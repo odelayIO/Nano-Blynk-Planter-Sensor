@@ -6,17 +6,49 @@ Created a wireless moisture sensor which updates the moisture level on a IOS/And
 
 
 
-<img src="./docs/20240830_185003000_iOS.png" alt="20240830_185003000_iOS" style="zoom:33%;" />
+### Web Dashboard
+
+![image-20240914121457494](./docs/image-20240914121457494.png)
+
+### Mobile App
+
+![20240914_191854000_iOS](./docs/20240914_191854000_iOS.png)
+
+## Creating Blynk.Console on Blynk.io
+
+
+
+### Created a Template for Arduino Nano ESP32 board
+
+![image-20240914121620471](./docs/image-20240914121620471.png)
+
+
+
+### Blynk Datastreams
+
+![image-20240914121657159](./docs/image-20240914121657159.png)
+
+
+
+### Blynk Web Dashboard
+
+![image-20240914121722688](./docs/image-20240914121722688.png)
+
+
+
+### Events & Notifications
+
+![image-20240914121756175](./docs/image-20240914121756175.png)
+
+
+
+### Blynk Automations
+
+![image-20240914121834728](./docs/image-20240914121834728.png)
 
 
 
 
-
-![image-20240830114927881](./docs/image-20240830114927881.png)
-
-Created a Template for Arduino Nano ESP32 board
-
-![image-20240830114521889](./docs/image-20240830114521889.png)
 
 
 
